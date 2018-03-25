@@ -1,3 +1,4 @@
+#-*-coding:utf-8-*-
 """
 问题链接：
 https://leetcode.com/problems/merge-two-binary-trees/description/
