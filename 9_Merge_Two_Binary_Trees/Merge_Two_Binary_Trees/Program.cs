@@ -1,6 +1,6 @@
 ﻿/*
 问题链接：
-https://leetcode.com/problems/merge-two-binary-trees/description/
+https://leetcode.com/problems/remove-element/description/
 问题描述：
 给定两颗二叉树并假设当你将其中一颗尔盖另一颗树时，两棵树某些节点重叠而其他节点不重叠。
 
